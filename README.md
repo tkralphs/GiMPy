@@ -1,4 +1,6 @@
-#GiMPy 1.3
+# GiMPy 2.0
+
+## Now with Python3 Support!
 
 [![DOI](https://zenodo.org/badge/18214894.svg)](https://zenodo.org/badge/latestdoi/18214894)
 
@@ -18,11 +20,6 @@ https://pypi.python.org/pypi/coinor.gimpy
 ## Installation Notes
 
 To install, do
-
-```
-easy_install coinor.gimpy
-```
-or
 ```
 pip install coinor.gimpy
 ```
